@@ -1,3 +1,3 @@
 # repozit
-print("ProstoMishutka")
+
 
